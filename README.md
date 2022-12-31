@@ -52,45 +52,6 @@
 
 <br><br>
 
-## 🚀 Projects
-
----
-
-### MyRSS
-
-- 2022년 10월 ~ 진행중, 개인 프로젝트
-- RSS 기반 피드 관리 서비스
-- 개발환경: Java11, SpringBoot 2.7.6, MySQL 8.0, Redis, Oracle Cloud,<br>Github Actions, Jenkins, SonarQube, Nginx, Grafana,
-  Prometheus,
-  Loki, Promtail, React
-- <a href="https://myrss.ga" target="_blank">방문하기</a>
-
-### RMA
-
-- 2020년 9월 ~ 2020년 9월, 개인 프로젝트
-- 구직 사이트 채용 공고 필터링을 위한 `크롬 확장 프로그램`
-- 개발환경: JavaScript, Chrome Storage Sync
-- <a href="https://creampuffy.tistory.com/55" target="_blank">제작기</a>
-- <a href="https://www.youtube.com/watch?v=0SoramjSeog" target="_blank">시뮬레이션 영상</a>
-- <a href="https://chrome.google.com/webstore/detail/rma/ibfoelalnhihfkhhjpnpkajhmiojmnph?hl=ko" target="_blank">크롬 웹
-  스토어</a>
-
-### withIT
-
-- 2020년 6월 ~ 2020년 9월, 국비 5인 팀 프로젝트
-- 카카오맵 API의 `반경 그리기`를 이용한 스터디 매칭 서비스
-- 개발환경: Java 8, Spring 5.2, MyBatis, MySQL 8.0, JSP, AWS
-- <a href="https://www.youtube.com/watch?v=CLTvmnwk8bY&t=53s" target="_blank">시뮬레이션 영상</a>
-
-### CatchMind
-
-- Java Swing, `Socket 통신`을 이용한 게임
-- 2020년 4월 ~ 2020년 5월, 국비 5인 팀 프로젝트
-- 개발환경: Java 8, Java Swing, Oracle 18g
-- <a href="https://www.youtube.com/watch?v=g7Ng1TNhqls&t=520s" target="_blank">시뮬레이션 영상</a>
-
-<br><br>
-
 ## ✍️ Post
 
 ---
