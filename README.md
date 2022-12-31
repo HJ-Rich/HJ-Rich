@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20there%20👋&fontAlign=25&fontAlignY=40&color=gradient&animation=fadeIn"/>
 
-<br>
-
 ## Hello World
 
 > 안녕하세요 Java, Spring 기반 2년차 백엔드 개발자 전형중입니다.<br>유지보수 가능한 코드, 쉽게 읽히는 코드, 테스트를 통해 뒷받침되는 코드를 지향합니다.
