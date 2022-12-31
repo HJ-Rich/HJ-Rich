@@ -33,9 +33,7 @@
 > 깃허브 활동 통계
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-Rich&layout=compact&langs_count=4&theme=vue-dark&&hide=python">
-<br>
 <img src="https://github-readme-stats.vercel.app/api?username=HJ-Rich&theme=vue-dark&show_icons=true&count_private=true">
-<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJ-Rich&theme=dark">
 
 
