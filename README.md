@@ -12,28 +12,17 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Java-595959?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/SpringBoot-595959?style=for-the-badge&logo=springboot" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-595959?style=for-the-badge&logo=springdatajpa" />
+<img src="https://img.shields.io/badge/Java-595959?style=for-the-badge&logo=java" /><img src="https://img.shields.io/badge/SpringBoot-595959?style=for-the-badge&logo=springboot" /><img src="https://img.shields.io/badge/Spring%20Data%20JPA-595959?style=for-the-badge&logo=springdatajpa" />
+
+<img src="https://img.shields.io/badge/MySQL-595959?style=for-the-badge&logo=mysql" /><img src="https://img.shields.io/badge/Redis-595959?style=for-the-badge&logo=redis" /><img src="https://img.shields.io/badge/Git-595959?style=for-the-badge&logo=git">
 
 <br>
 
-<img src="https://img.shields.io/badge/MySQL-595959?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Redis-595959?style=for-the-badge&logo=redis" />
-<img src="https://img.shields.io/badge/Git-595959?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/Nginx-595959?style=for-the-badge&logo=nginx&logoColor=green" /><img src="https://img.shields.io/badge/AWS-595959?style=for-the-badge&logo=amazonaws&logoColor=orange" /><img src="https://img.shields.io/badge/Jenkins-595959?style=for-the-badge&logo=jenkins" /><img src="https://img.shields.io/badge/Github%20Actions-595959?style=for-the-badge&logo=github-actions" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Nginx-595959?style=for-the-badge&logo=nginx&logoColor=green" />
-<img src="https://img.shields.io/badge/AWS-595959?style=for-the-badge&logo=amazonaws&logoColor=orange" />
-<img src="https://img.shields.io/badge/Jenkins-595959?style=for-the-badge&logo=jenkins" />
-<img src="https://img.shields.io/badge/Github%20Actions-595959?style=for-the-badge&logo=github-actions" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Grafana-595959?style=for-the-badge&logo=grafana">
-<img src="https://img.shields.io/badge/Prometheus-595959?style=for-the-badge&logo=prometheus">
-<img src="https://img.shields.io/badge/SonarCloud-595959?style=for-the-badge&logo=sonarcloud" />
+<img src="https://img.shields.io/badge/Grafana-595959?style=for-the-badge&logo=grafana"><img src="https://img.shields.io/badge/Prometheus-595959?style=for-the-badge&logo=prometheus"><img src="https://img.shields.io/badge/SonarCloud-595959?style=for-the-badge&logo=sonarcloud" />
 
 <br>
 
