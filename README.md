@@ -28,8 +28,6 @@
 
 ## ⭐️ Stats
 
----
-
 > 깃허브 활동 통계
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJ-Rich&layout=compact&langs_count=4&theme=vue-dark&&hide=python">
@@ -40,8 +38,6 @@
 <br><br>
 
 ## ⚙️ Algorithm
-
----
 
 > 백준 알고리즘 문제풀이
 
@@ -54,8 +50,6 @@
 
 ## ✍️ Post
 
----
-
 > 개인 기술블로그에 작성한 포스팅
 
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=creampuffy&postId=172&theme=tistory)](https://creampuffy.tistory.com/172)
@@ -65,8 +59,6 @@
 <br><br>
 
 ## 🙋‍♂️ Presentation
-
----
 
 > 우아한테크코스에서 진행한 `@Transactional` 발표
 
