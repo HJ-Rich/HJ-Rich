@@ -70,7 +70,9 @@
 
 > 우아한테크코스에서 진행한 `@Transactional` 발표
 
-[![테코톡](http://img.youtube.com/vi/taAp_u83MwA/mqdefault.jpg)](https://youtu.be/taAp_u83MwA)
+<a href="https://youtu.be/taAp_u83MwA" target="_blank">
+  <img src="http://img.youtube.com/vi/taAp_u83MwA/mqdefault.jpg" />
+</a>
 
 <br>
 
