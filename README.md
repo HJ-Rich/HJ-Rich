@@ -34,17 +34,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HJ-Rich&theme=vue-dark&show_icons=true&count_private=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HJ-Rich&theme=dark">
 
-
 <br><br>
 
 ## ⚙️ Algorithm
 
-> 백준 알고리즘 문제풀이
+> 백준 & 리트코드 알고리즘 문제풀이
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=richard7)](https://solved.ac/richard7)
 <br>
 ![Boj History](http://mazandi.herokuapp.com/api?handle=richard7&theme=dark)
+<br>
+![LeetCode](https://leetcard.jacoblin.cool/HJ-Rich?theme=dark&animation=false&site=un&hide=ranking&ext=heatmap)
 
 <br><br>
 
