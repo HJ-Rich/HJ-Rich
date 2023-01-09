@@ -45,7 +45,7 @@
 <br>
 ![Boj History](http://mazandi.herokuapp.com/api?handle=richard7&theme=dark)
 <br>
-![LeetCode](https://leetcard.jacoblin.cool/HJ-Rich?theme=dark&animation=false&site=un&hide=ranking&ext=heatmap)
+![LeetCode](https://leetcard.jacoblin.cool/HJ-Rich?theme=dark&animation=true&site=un&hide=ranking&ext=heatmap)
 
 <br><br>
 
